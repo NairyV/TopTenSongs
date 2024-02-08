@@ -1,7 +1,7 @@
 # TopTenSongs
 Sacramento State coursework
 
-This project was done using Nodes. You are able to add, remove, reposition, rename (and more), song list names using the menu below:
+This project was done using Nodes. You are able to add, remove, reposition, rename (and more), song list names using the menu below. The song names and list is saved in the Songs.txt file.
 
 Menu: 
 
